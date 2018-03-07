@@ -1,2 +1,2 @@
 # hello-world
-to learn git
+to learn gitfor mobile computing project
